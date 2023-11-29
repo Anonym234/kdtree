@@ -1,0 +1,9 @@
+[package]
+name = "kdtree"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "a kd tree (multidimensional binary tree)"
+
+[dependencies]
+rand = "0.8.5"
